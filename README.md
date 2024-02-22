@@ -4,4 +4,4 @@
 
 # Info #
 
-Joke Random
+Random Joke
