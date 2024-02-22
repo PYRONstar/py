@@ -11,7 +11,7 @@ def convert(text):
     return converted
 
 
-yourapi = requests.get(api)
-valueJson = yourapi.json()["result"]
+myapi = requests.get(api)
+valueJson = myapi.json()["result"]
 
 print(convert(valueJson))
